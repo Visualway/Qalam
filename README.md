@@ -1,5 +1,5 @@
 
-# Kalam
+# Qalam
 
 A minimal drawing app for creative artists and devs to create quick art.
 
